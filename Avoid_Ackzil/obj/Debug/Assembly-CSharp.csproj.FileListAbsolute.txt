@@ -1,0 +1,2 @@
+C:\Users\bigha\Avoid And Survive\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\bigha\Avoid And Survive\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
